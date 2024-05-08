@@ -7,5 +7,5 @@ jobs:
       - name: my-step
         run: echo "Hello World!"
       - name: step2
-        run: source test.sh
+        run: source fleet-onprem-dscc-test/test.sh
         
