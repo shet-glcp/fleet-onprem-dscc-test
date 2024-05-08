@@ -7,5 +7,5 @@ jobs:
       - name: my-step
         run: echo "Hello World!"
       - name: step2
-        run: test.sh
+        run: source test.sh
         
